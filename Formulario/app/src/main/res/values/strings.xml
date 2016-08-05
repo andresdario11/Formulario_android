@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="txt">primer_campo</string>
+    <string name="tv1">primer campo</string>
+    <string name="tv2">segundo campo</string>
+    <string name="bt1">Ejecutar</string>
+</resources>
